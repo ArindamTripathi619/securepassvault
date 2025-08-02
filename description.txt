@@ -1,0 +1,1 @@
+🔐 SecurePassVault - A secure, full-featured password manager web application with AES-256 encryption, master password authentication, and tag-based organization. Built with React.js, Node.js, and MongoDB for complete control over your sensitive data.
