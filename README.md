@@ -25,16 +25,16 @@ A secure, full-fledged password manager web application with encryption, tagging
 
 ## 🖼️ Screenshots
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/login.webp)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.webp)
 
 ### Add Credential Modal
-![Add Credential](screenshots/add_credential.png)
+![Add Credential](screenshots/add_credential.webp)
 
 ### Mobile View
-![Mobile View](screenshots/mobile_view.png)
+![Mobile View](screenshots/mobile_view.webp)
 
 ---
 
@@ -233,7 +233,7 @@ securepassvault/
    
    # Setup SSL with Certbot
    sudo apt install certbot python3-certbot-nginx -y
-   sudo certbot --nginx -d passwords.devcrewx.tech
+   sudo certbot --nginx -d <your_domain_name>
    ```
 
 8. **Configure Firewall:**
@@ -387,7 +387,7 @@ For any inquiries or suggestions, feel free to reach out!
 **Live Demo**: [https://passwords.devcrewx.tech](https://passwords.devcrewx.tech)
 
 ### Social Links  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aritri619/)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arindam.tripathi.180/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arindam-tripathi-962551349/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@arindamtripathi4602)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_arindxm/)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arindam.tripathi.180/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arindam-tripathi-962551349/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@arindamtripathi4602)  
 
 ---
 
